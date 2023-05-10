@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Qichun (Jackson)</h1>
+<h1 align="center">Hi 👋, I'm Qichun (Jackson) Yu</h1>
 <h3 align="center">Pythonista on a mission to uncover hidden patterns in data</h3>
 
 
